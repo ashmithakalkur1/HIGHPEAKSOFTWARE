@@ -1,0 +1,48 @@
+>2
+The goodies selected for distribution are: 
+
+Microwave Oven: 9800
+Alexa: 9999
+
+And the difference between the chosen goodie with highest price and the lowest price is 199
+
+>3
+The goodies selected for distribution are: 
+
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+And the difference between the chosen goodie with highest price and the lowest price is 1301
+
+>4
+The goodies selected for distribution are: 
+
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+And the difference between the chosen goodie with highest price and the lowest price is 3121
+
+>5
+The goodies selected for distribution are: 
+
+Scale: 4999
+Fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+
+And the difference between the chosen goodie with highest price and the lowest price is 6102
+
+
+
+
+
+
+
+
+
+
+
